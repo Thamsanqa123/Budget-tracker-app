@@ -1,10 +1,10 @@
 # Budget Tracker App
 
-![App Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png) <!-- Add your logo if available -->
+![App Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png) 
 
 A personal finance management app for Android that helps users track expenses, manage budgets, and achieve savings goals.
 
-## Features
+## Features added
 
 - **User Authentication**
   - Secure login and registration
